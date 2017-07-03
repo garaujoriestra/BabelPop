@@ -1,0 +1,66 @@
+{
+    "users": [
+        {
+            "name": "Guillermo Araujo Riestra",
+            "rol": "user",
+            "email": "garaujoriestra@gmail.com",
+            "pass": "12345678",
+            "photo": "/Users/guillermoaraujoriestra/Documents/Babel/TFG/wallapop/fotocarnet.png",
+            "photoSocial": "",
+            "date": "2016-11-14",
+            "birthDate": "1992-10-30",
+            "livingArea": "Madrid",
+            "gender": "Male",
+            "phone": "123456789",
+            "favCat": [],
+            "photoSocial": "",
+            "facebook": ""
+        },
+        {
+            "name": "Pablo Araujo Riestra",
+            "rol": "admin",
+            "email": "guillermo.araujo@babel.es",
+            "pass": "12345678",
+            "photo": "/Users/guillermoaraujoriestra/Documents/Babel/TFG/wallapop/fotocarnet.png",
+            "photoSocial": "",
+            "date": "2016-11-14",
+            "birthDate": "1990-03-06",
+            "livingArea": "Madrid",
+            "gender": "Male",
+            "phone": "123456789",
+            "favCat": [],
+            "facebook": ""
+        },
+        {
+            "name": "Miguel Araujo Pazos",
+            "rol": "user",
+            "email": "araujo-92@hotmail.com",
+            "pass": "12345678",
+            "photo": "/Users/guillermoaraujoriestra/Documents/Babel/TFG/wallapop/fotocarnet.png",
+            "photoSocial": "",
+            "date": "2016-11-14",
+            "birthDate": "1957-08-18",
+            "livingArea": "Madrid",
+            "gender": "Male",
+            "phone": "123456789",
+            "favCat": [],
+            "facebook": ""
+        },
+        {
+            "name": "Sofia Riestra Rivas",
+            "rol": "user",
+            "email": "g.araujo@alumnos.urjc.es",
+            "pass": "12345678",
+            "photo": "/Users/guillermoaraujoriestra/Documents/Babel/TFG/wallapop/fotocarnet.png",
+            "photoSocial": "",
+            "date": "2016-11-14",
+            "birthDate": "1959-09-02",
+            "livingArea": "Madrid",
+            "gender": "Female",
+            "phone": "123456789",
+            "favCat": [],
+            "facebook": ""
+        }
+
+    ]
+}
